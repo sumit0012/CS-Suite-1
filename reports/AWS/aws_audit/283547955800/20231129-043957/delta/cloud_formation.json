@@ -1,0 +1,2 @@
+{"account": "283547955800", "check_no": "null", "aws-cli_profile": "default", "region": "ap-south-1", "level": "null", "value": "SNS topic does exist for CloudFormation stack timesheet-serverless-dev", "score": "Scored", "type": "PASS", "check": "CLOUD_FORMATION_AUDIT"}
+{"account": "283547955800", "check_no": "null", "aws-cli_profile": "default", "region": "ap-south-1", "level": "null", "value": "CloudFormation stack timesheet-serverless-dev has a policy", "score": "Scored", "type": "PASS", "check": "CLOUD_FORMATION_AUDIT"}

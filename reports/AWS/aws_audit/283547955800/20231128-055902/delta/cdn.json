@@ -1,0 +1,4 @@
+{"account": "283547955800", "check_no": "null", "aws-cli_profile": "default", "region": "us-east-1", "level": "null", "value": "Cloudfront EHV2S1V14RO0I is not WAF integration enabled", "score": "Scored", "type": "WARNING", "check": "CDN_AUDIT"}
+{"account": "283547955800", "check_no": "null", "aws-cli_profile": "default", "region": "us-east-1", "level": "null", "value": "Cloudfront EHV2S1V14RO0I does not have logging enabled", "score": "Scored", "type": "WARNING", "check": "CDN_AUDIT"}
+{"account": "283547955800", "check_no": "null", "aws-cli_profile": "default", "region": "us-east-1", "level": "null", "value": "Cloudfront EHV2S1V14RO0I is not using a deprecated verions of SSL", "score": "Scored", "type": "PASS", "check": "CDN_AUDIT"}
+{"account": "283547955800", "check_no": "null", "aws-cli_profile": "default", "region": "us-east-1", "level": "null", "value": "Cloudfront EHV2S1V14RO0I is using HTTPS", "score": "Scored", "type": "PASS", "check": "CDN_AUDIT"}

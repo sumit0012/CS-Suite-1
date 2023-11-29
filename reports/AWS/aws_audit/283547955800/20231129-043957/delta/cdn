@@ -1,0 +1,4 @@
+default,283547955800,us-east-1,null,WARNING,Scored,null,CDN_AUDIT,Cloudfront EHV2S1V14RO0I is not WAF integration enabled
+default,283547955800,us-east-1,null,WARNING,Scored,null,CDN_AUDIT,Cloudfront EHV2S1V14RO0I does not have logging enabled
+default,283547955800,us-east-1,null,PASS,Scored,null,CDN_AUDIT,Cloudfront EHV2S1V14RO0I is not using a deprecated verions of SSL
+default,283547955800,us-east-1,null,PASS,Scored,null,CDN_AUDIT,Cloudfront EHV2S1V14RO0I is using HTTPS

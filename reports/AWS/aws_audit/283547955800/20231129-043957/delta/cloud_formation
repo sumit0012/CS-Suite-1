@@ -1,0 +1,2 @@
+default,283547955800,ap-south-1,null,PASS,Scored,null,CLOUD_FORMATION_AUDIT,SNS topic does exist for CloudFormation stack timesheet-serverless-dev
+default,283547955800,ap-south-1,null,PASS,Scored,null,CLOUD_FORMATION_AUDIT,CloudFormation stack timesheet-serverless-dev has a policy

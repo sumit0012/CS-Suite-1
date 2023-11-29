@@ -1,0 +1,6 @@
+default,283547955800,ap-south-1,null,PASS,Scored,null,SES_AUDIT,Domain codecraft.co.in has DKIM enabled
+default,283547955800,ap-south-1,null,PASS,Scored,null,SES_AUDIT,Domain azhan.khan@codecraft.co.in has DKIM enabled
+default,283547955800,ap-south-1,null,PASS,Scored,null,SES_AUDIT,Domain reevan.dsouza@codecraft.co.in has DKIM enabled
+default,283547955800,ap-south-1,null,PASS,Scored,null,SES_AUDIT,Domain sushmitha.suvarna@codecraft.co.in has DKIM enabled
+default,283547955800,us-east-1,null,PASS,Scored,null,SES_AUDIT,Domain software has DKIM enabled
+default,283547955800,us-east-1,null,WARNING,Scored,null,SES_AUDIT,Domain sumanth.gowda@codecraft.co.in does not have DKIM enabled

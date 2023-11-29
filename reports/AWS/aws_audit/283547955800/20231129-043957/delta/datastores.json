@@ -1,0 +1,4 @@
+{"category": "database", "data": [{"check_no": "null", "level": "null", "region": "null", "value": "No information is available", "score": "scored", "type": "INFO"}], "check": "ELASTIC_SEARCH_AUDIT"}
+{"category": "database", "data": [{"check_no": "null", "level": "null", "region": "null", "value": "No information is available", "score": "scored", "type": "INFO"}], "check": "ELASTIC_CACHE_AUDIT"}
+{"category": "database", "data": [{"check_no": "null", "level": "null", "region": "null", "value": "No information is available", "score": "scored", "type": "INFO"}], "check": "REDSHIFT_AUDIT"}
+{"category": "database", "data": [{"check_no": "null", "level": "null", "region": "null", "value": "No information is available", "score": "scored", "type": "INFO"}], "check": "RDS_AUDIT"}

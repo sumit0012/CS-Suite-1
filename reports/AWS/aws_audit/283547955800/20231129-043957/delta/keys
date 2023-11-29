@@ -1,0 +1,9 @@
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User amoga does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User azhan.khan@codecraft.co.in does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User CS-Suite-Read_Only does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User gaurav.naik@codecraft.co.in does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User gitlab-ci-cd does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User nigel.peris@codecraft.co.in does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User reevan.dsouza@codecraft.co.in does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User Scout-Suite does not have any active SSH key
+default,283547955800,us-east-1,null,PASS,Scored,null,AWS_KEY_AUDIT,User sumanth.gowda@codecraft.co.in does not have any active SSH key
